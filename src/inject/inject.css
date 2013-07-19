@@ -1,0 +1,8 @@
+#qrcode {
+display : block !important;
+background : #ffffff !important;
+padding : 15px !important;
+border-radius : 10px !important;
+box-shadow : 2px 2px 3px rgba(0,0,0,0.6) !important;
+margin : 15px auto !important;
+}
